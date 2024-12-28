@@ -44,24 +44,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
-
-Project Link: [https://github.com/yourusername/firstrepo](https://github.com/yourusername/firstrepo)
-## Acknowledgements
-- Hat tip to anyone whose code was used
-- Inspiration: Samurai Champloo, Rurouni Kenshin
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
-- [Img Shields](https://shields.io)
-
-## Additional Resources
-For more information on samurai anime and related themes, check out these resources:
-- [MyAnimeList](https://myanimelist.net)
-- [Crunchyroll](https://www.crunchyroll.com)
-- [Anime News Network](https://www.animenewsnetwork.com)
-
-## Support
-If you like this project, please consider supporting it by giving it a ⭐ on GitHub and sharing it with your friends and colleagues.
